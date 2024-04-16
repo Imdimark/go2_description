@@ -1,5 +1,5 @@
-## go2_urdf
-This repository contains the urdf model of go2.
+## go2_Spade_Description
+This repository contains the urdf model of go2, can be used with CHAMP repository, using the go2.champ.urdf
 
 
 ## Build the library

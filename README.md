@@ -1,6 +1,5 @@
-## go2_Spade_Description
-This repository contains the urdf model of go2, can be used with CHAMP repository, using the go2.champ.urdf
-There is a urdf with the Velodyne you can use too
+## go2_urdf
+This repository contains the urdf model of go2.
 
 
 ## Build the library
